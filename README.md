@@ -5,5 +5,3 @@
 ## Datos personales
 **Nombre:** _Marlon Ronaldo Amador Carranza_ <br>
 **Clave:** _01 ------------- Quinto Computación_ <br>
-:image.png:
-![asd](image.png)
